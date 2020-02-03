@@ -1,2 +1,2 @@
 # SDSS
-Primeira análise feita usando python com fins de aprendizagem pessoal.
+Primeira análise feita usando python para fins de aprendizagem pessoal.
